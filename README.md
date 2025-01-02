@@ -37,7 +37,7 @@
 
         
 ## Verification
-Truth table of CNOT gate for Two Qubit:
+#### Truth table of CNOT gate for Two Qubit:
 
 
   ![image](https://github.com/user-attachments/assets/7251847c-0f0b-49a4-9296-f46f8009a05f)
